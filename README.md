@@ -1,5 +1,11 @@
 # gg-submission 🐋
 
+## Pulling
+
+```ps
+docker pull mmkhan1998/gg-submission
+```
+
 ## Building and running
 
 Running the docker container
