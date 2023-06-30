@@ -45,7 +45,20 @@ gg-submission-server-1  | Press CTRL+C to quit
 
 ```
 
-## Testing
+## Automated testing
+
+First, need to start the server and then run the following `unittest` command.
+
+```ps
+$> python -m unittest test_app.py
+...
+----------------------------------------------------------------------
+Ran 3 tests in 0.013s
+
+OK
+```
+
+## Manual testing
 
 Testing using `Invoke-RestMethod`
 
